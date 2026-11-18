@@ -1,0 +1,12 @@
+# Tymczasowe pliki Microsoft Excel
+~$*.xlsx
+~$*.xlsm
+~$*.xls
+
+# Pliki tymczasowe systemu Windows
+Thumbs.db
+Desktop.ini
+
+# Pliki tymczasowe edytorów
+*.tmp
+*.bak
